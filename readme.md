@@ -5,6 +5,9 @@ virtualenv: pip install -r requirements.txt
 
 ## usage
 
+#### data 
+Put your data in the file dir "data" and gain result in dir "test_rgb_and_mask"  
+
 ##### run commands
 activate your_virtual_env_name  
 jupyter notebook
@@ -12,8 +15,7 @@ jupyter notebook
 main->fcn.ipynb (run it to trian model)  
 or  
 main -> predict.ipynb (run it to predict hand picture)  
-#### data 
-Put your data in the file dir "data" and gain result in dir "test_rgb_and_mask"  
+
 
 ## result
 
