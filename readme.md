@@ -13,7 +13,7 @@ Put hand data in the dir "data"
 gain model from dir "model"  
 gain result from dir "test_rgb_and_mask"  
 #### run
-main->fcn.ipynb  
+main -> fcn.ipynb  
 ----------------------------------------------------
 ### 2.2.predict
 #### data 
