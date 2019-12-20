@@ -22,11 +22,14 @@ main -> predict.ipynb (run it to predict hand picture)
 ![Image](https://github.com/WhaleFalles/hand_segmentaition/blob/master/main/2019-12-20%20175224.png)
 ## others
 
+#### download
 My trained model and result :  
 url：https://pan.baidu.com/s/1sYBSJAEVFccRTLGjJzeD0Q   
 password：n81z   
 
-
+#### refer
+book：《动手学深度学习》
+github：https://github.com/d2l-ai/d2l-zh
 ```python
 
 ```
