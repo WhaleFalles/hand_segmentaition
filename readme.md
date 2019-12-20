@@ -17,12 +17,12 @@ Put your data in the file dir "data" and gain result in dir "test_rgb_and_mask"
 
 ## result
 
-![image_text](./main/批注 2019-12-20 175224.png)
+![Image](https://github.com/WhaleFalles/hand_segmentaition/blob/master/main/2019-12-20%20175224.png)
 ## others
 
-My trained model and result :
-url：https://pan.baidu.com/s/1sYBSJAEVFccRTLGjJzeD0Q 
-password：n81z 
+My trained model and result :  
+url：https://pan.baidu.com/s/1sYBSJAEVFccRTLGjJzeD0Q   
+password：n81z   
 
 
 ```python
