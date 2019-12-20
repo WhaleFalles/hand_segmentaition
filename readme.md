@@ -4,16 +4,23 @@ or
 virtualenv: pip install -r requirements.txt  
 
 ## usage
-
-#### data 
-Put your data in the file dir "data" and gain result in dir "test_rgb_and_mask"  
-
-##### run commands
+### run commands
 activate your_virtual_env_name  
 jupyter notebook
-#### train or predict
-main->fcn.ipynb (run it to trian model)  
-or  
+### train
+#### data 
+Put hand data in the dir "data"  
+gain model from dir "model"
+gain result from dir "test_rgb_and_mask"  
+#### run
+main->fcn.ipynb
+
+### predict
+#### data 
+Put hand data in the dir "data"  
+put your advance trained model in the dir "model"
+gain result from dir "test_rgb_and_mask"  
+#### run
 main -> predict.ipynb (run it to predict hand picture)  
 
 
